@@ -9,7 +9,7 @@ public class LosAngeles extends City{
 
 	@Override
 	double getAnnualTaxes() {
-		return 3896380; //pretty sure they did this one wrong
+		return 3896480; //pretty sure they did this one wrong
 	}
 	
 }
